@@ -33,6 +33,6 @@ I enjoy utilizing HTML, CSS, and JavaScript to make webpages come to life!
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://nabilelmaalem.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/HTML5-%25231572B6.svg?style=for-the-badge&logo=windowsterminal&logoColor=black&color=%23D3D3D3" alt="Nabil's Website"/>
+    <img src="https://img.shields.io/badge/Nabil's Portfolio-%25231572B6.svg?style=for-the-badge&logo=windowsterminal&logoColor=black&color=%23D3D3D3" alt="Nabil's Portfolio"/>
   </a>
 </div>
