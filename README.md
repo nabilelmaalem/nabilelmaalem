@@ -13,6 +13,8 @@ I enjoy utilizing HTML, CSS, and JavaScript to make webpages come to life!
 - I'm working on web pages for local buisnesses
 - I'm working on personal projects
 
+\
+\
 ### 🌱 I’m learning
 
 <div display="flex">
@@ -22,7 +24,8 @@ I enjoy utilizing HTML, CSS, and JavaScript to make webpages come to life!
 </div>
 
 - Working towards becoming a Full-Stack Developer 
-
+\
+\
 ### 📫 How to reach me
 
 <div display="flex">
