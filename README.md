@@ -2,6 +2,7 @@
 
 I enjoy utilizing HTML, CSS, and JavaScript to make webpages come to life!
 
+
 **I love working with**
 
 <div display="flex">
@@ -13,8 +14,7 @@ I enjoy utilizing HTML, CSS, and JavaScript to make webpages come to life!
 - I'm working on web pages for local buisnesses
 - I'm working on personal projects
 
-\
-\
+
 ### 🌱 I’m learning
 
 <div display="flex">
@@ -23,9 +23,9 @@ I enjoy utilizing HTML, CSS, and JavaScript to make webpages come to life!
   <img src="https://img.shields.io/badge/Bootstrap-%25231572B6.svg?style=for-the-badge&logo=Bootstrap&logoColor=black&color=%237952B3" alt="BootStrap"/>
 </div>
 
-- Working towards becoming a Full-Stack Developer 
-\
-\
+- Working towards becoming a Full-Stack Developer
+
+
 ### 📫 How to reach me
 
 <div display="flex">
